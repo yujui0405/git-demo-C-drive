@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+
+p {
+  font-size: 20px;
+}
+
+div {
+  outline: 3px solid yellow;
+}
